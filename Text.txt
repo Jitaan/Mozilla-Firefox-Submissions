@@ -1,0 +1,18 @@
+1. Bubble Sort (My implementation):
+•	Best Case (Already sorted array) : O(n) 
+•	Worst Case (Reversed Array): O(n2)
+•	Average Case: O(n2)
+Bubble Sort is inefficient for large datasets but easy to implement.
+
+2. Selection Sort
+•	Best Case: O(n2)
+•	Worst Case: O(n2)
+•	Average Case: O(n2)
+Selection Sort performs fewer swaps but still has O(n2) complexity.
+
+3. Insertion Sort
+•	Best Case: O(n)
+•	Worst Case: O(n2)
+•	Average Case: O(n2)
+Insertion Sort is better than Bubble Sort for nearly sorted arrays.
+
